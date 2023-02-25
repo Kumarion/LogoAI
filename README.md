@@ -2,7 +2,7 @@
 https://www.logoai.ca/
 
 <p float="left">
-  <img src="https://i.imgur.com/kMJcOcX.png" width="100" />
+  <img src="https://i.imgur.com/kMJcOcX.png" width="120" />
   <img src="https://i.imgur.com/5eCiwxM.png" width="100" /> 
   <img src="https://i.imgur.com/sBYJ9xE.png" width="100" />
   <img src="https://i.imgur.com/ADV0jUI.png" width="100" />
